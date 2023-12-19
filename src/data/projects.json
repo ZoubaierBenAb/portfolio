@@ -1,0 +1,36 @@
+[
+    {
+      "title": "Chat-Application",
+      "imageSrc": "projects/project.png",
+      "description": "I developed a feature-rich application with advanced friend and friend request algorithms, utilizing Socket.IO for live communication. With secured backend featuring high-level authentication, to keep user interactions safe. The seamless notification system further enhances user connectivity by instantly informing them about new friend requests and messages.",
+      "skills": ["React", "Express", "Node","MongoDB ","Redux","MUI","Socket.IO"],
+      "demo": "https://www.example.com",
+      "frontend": "https://github.com/weirdscenario/chat-app-frontend.git",
+      "backend" : "https://github.com/weirdscenario/chat-app-backend.git"
+    },
+    {
+      "title": "Admin-Dashboard",
+      "imageSrc": "projects/project.png",
+      "description": "I created a user-friendly admin dashboard with robust features for data management. Advanced aggregation techniques in the backend, while Nivo Chart ensures visually appealing and formatted data visualization. The result is an insightful and responsive experience that simplifies control and navigation, offering users a comprehensive and user-friendly interface."
+
+
+
+
+
+
+      ,
+      "skills": ["React", "Express", "Node","MongoDB ","Redux","MUI","Nivo Charts"],
+      "demo": "https://www.example.com",
+      "frontend": "https://github.com/weirdscenario/ANALYSER-client.git",
+      "backend" : "https://github.com/weirdscenario/ANALYSER-server.git"
+    },
+    {
+      "title": "Crypto-Flow",
+      "imageSrc": "projects/project.png",
+      "description": "I designed and implemented a comprehensive crypto insights application, leveraging React, Chart.js 2, and React-Table to provide users with dynamic and real-time information on cryptocurrency trends and market data. The incorporation of React-Table ensures efficient data presentation, while Chart.js 2 enhances the visual representation of complex market insights.",
+      "skills": ["React", "Express", "Node","MongoDB ","Redux","ANTD","React-Chart"],
+      "demo": "https://www.example.com",
+      "frontend": "https://github.com/weirdscenario/crypto-app-front.git",
+      "backend" : "https://github.com/weirdscenario/crypto-app.git"
+    }
+  ]
